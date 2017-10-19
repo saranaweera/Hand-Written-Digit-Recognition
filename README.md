@@ -13,3 +13,5 @@ I tried various dimensionality reduction methods as well as many machine learnin
 ### Flask App ### 
 I developed a Flask App which allows a user to write multiple digits on a canvas and then classifies them in real time.
 [Flask App Code](https://github.com/saranaweera/Hand-Written-Digit-Recognition/blob/master/FlaskApp/)
+
+[](flaskapp.png)
