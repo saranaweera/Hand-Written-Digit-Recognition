@@ -2,7 +2,7 @@
 
 In this project, I use various machine learning algorithms and techniques to develop models to correctly classify hand written arabic numerals.
 
-Dataset that was used for this project is the famous MNIST Database, compiled by Dr.Yann LeCun, Dr.Corinna Cortes, and Dr.Christopher J.C. Burges. Dataset contains 70,000 images with nearly equal number of examples for each of the ten different digits 0 through 9.
+Dataset that was used for this project is the famous MNIST Database, compiled by Dr.Yann LeCun, Dr.Corinna Cortes, and Dr.Christopher J.C. Burges. Dataset contains 70,000 images with nearly equal numbers of examples for each of the ten different digits 0 through 9.
 
 I tried various dimensionality reduction methods as well as many machine learning algorithms to achieve a prediction accuracy of over 98%.
 
